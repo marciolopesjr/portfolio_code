@@ -1,4 +1,5 @@
 module.exports = {
+  target: 'serverless', 
   reactStrictMode: true,
   trailingSlash: true,
   pageExtensions: ['page.js', 'api.js'],
